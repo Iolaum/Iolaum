@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iolaum
-- 💻 I'm working as Senior Data Scientist at @NannyML
+- 💻 I'm working as Senior Data Scientist at @sodadata
 - 👀 I’m interested in Open Source and Personal Computing
 - 🌱 I’m currently learning patience from my kids 
 - 💞️ I’m looking to collaborate on Free Software.
